@@ -1,0 +1,8 @@
+- name: Github
+  link: 'https://github.com/johmasson/'
+  social_icon: Github
+  new_window: true
+- name: Linkedin
+  link: 'https://www.linkedin.com/in/jonathan-masson-a4741b165/'
+  social_icon: Linkedin
+  new_windows: true
