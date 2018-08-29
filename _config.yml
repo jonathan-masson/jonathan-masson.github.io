@@ -42,3 +42,6 @@ webmaster_verifications:
 
 social_icons:
   - LinkedIn
+  
+plugins:
+  - jemoji
