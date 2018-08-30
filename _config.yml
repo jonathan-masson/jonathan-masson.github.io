@@ -1,6 +1,6 @@
 locale: "fr-FR"
 title: Jonathan Masson # Title of your site
-url: "https://johmasson.github.io/" # the base hostname & protocol for your site
+url: "jonathan-masson.github.io/" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
 
@@ -29,6 +29,7 @@ gems:
   - "jekyll-seo-tag"
   - "jekyll-paginate"
   - "jekyll-sitemap"
+  - 'jemoji'
 
 # Jekyll SEO Tag
 webmaster_verifications:
